@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<Frames>
+	<Frame>
+		<id>1</id>
+		<type>Dynamic digital</type>
+		<latitude>44.03.01</latitude>
+		<longitude>27.03.01</longitude>
+		<cost>200</cost>
+		<maintenance_cost>100</maintenance_cost>
+		<audience>female, 18, 25</audience>
+	</Frame>
+	<Frame>
+		<id>2</id>
+		<type>Dynamic analog</type>
+		<latitude>44.03.03</latitude>
+		<longitude>27.03.04</longitude>
+		<cost>250</cost>
+		<maintenance_cost>150</maintenance_cost>
+		<audience>male, 18, 25</audience>
+	</Frame>
+	<Frame>
+		<id>2</id>
+		<type>Static</type>
+		<latitude>44.03.04</latitude>
+		<longitude>27.03.06</longitude>
+		<cost>220</cost>
+		<maintenance_cost>120</maintenance_cost>
+		<audience>male, 18, 25. female, 30, 45</audience>
+	</Frame>
+</Frames>
