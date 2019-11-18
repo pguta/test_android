@@ -43,7 +43,7 @@
                 <answer label="B" text="Answer 1.B"> </answer>
                 <answer label="C" text="Answer 1.C"> </answer>
             </question>
-            <question text="Question 2 text" url="url 2" domain="Mechanical">
+            <question text="Question 2 text" url="https://raw.githubusercontent.com/pguta/test_android/master/Imagini/Chestionare/3461.jpg" domain="Mechanical">
                 <answer label="A" text="Answer 2.A"> </answer>
                 <answer label="B" text="Answer 2.B"> </answer>
                 <answer label="C" text="Answer 2.C"> </answer>
