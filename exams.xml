@@ -2,133 +2,97 @@
 <exam>
     <category type="A">
         <questionnaire number="1">
-            <question number="1">
-                <question_text text="Question 1 text" />
-                <question_photo url="url 1" />
+            <question number="1" text="Question 1 text" url="url 1" domain="Main">
                 <question_answers>
                     <answer label="A" text="Answer 1.A" />
                     <answer label="B" text="Answer 1.B" />
                     <answer label="C" text="Answer 1.C" />
                 </question_answers>
-                <question_domain name="Main" />
             </question>
-            <question number="2">
-                <question_text text="Question 2 text" />
-                <question_photo url="url 2" />
+            <question number="2" text="Question 2 text" url="url 2" domain="Mechanical">
                 <question_answers>
                     <answer label="A" text="Answer 2.A" />
                     <answer label="B" text="Answer 2.B" />
                     <answer label="C" text="Answer 2.C" />
                 </question_answers>
-                <question_domain name="Mechanical" />
             </question>
-            <question number="3">
-                <question_text text="Question 3 text" />
-                <question_photo url="url 3" />
+            <question number="3" text="Question 3 text" url="url 3" domain="Medical">
                 <question_answers>
                     <answer label="A" text="Answer 3.A" />
                     <answer label="B" text="Answer 3.B" />
                     <answer label="C" text="Answer 3.C" />
                 </question_answers>
-                <question_domain name="Medical" />
             </question>
         </questionnaire>
         <questionnaire number="2">
-            <question number="1">
-                <question_text text="Question 1 text" />
-                <question_photo url="url 1" />
+            <question number="1" text="Question 1 text" url="url 1" domain="Main">
                 <question_answers>
                     <answer label="A" text="Answer 1.A" />
                     <answer label="B" text="Answer 1.B" />
                     <answer label="C" text="Answer 1.C" />
                 </question_answers>
-                <question_domain name="Main" />
             </question>
-            <question number="2">
-                <question_text text="Question 2 text" />
-                <question_photo url="url 2" />
+            <question number="2" text="Question 2 text" url="url 2" domain="Mechanical">
                 <question_answers>
                     <answer label="A" text="Answer 2.A" />
                     <answer label="B" text="Answer 2.B" />
                     <answer label="C" text="Answer 2.C" />
                 </question_answers>
-                <question_domain name="Mechanical" />
             </question>
-            <question number="3">
-                <question_text text="Question 3 text" />
-                <question_photo url="url 3" />
+            <question number="3" text="Question 3 text" url="url 3" domain="Medical">
                 <question_answers>
                     <answer label="A" text="Answer 3.A" />
                     <answer label="B" text="Answer 3.B" />
                     <answer label="C" text="Answer 3.C" />
                 </question_answers>
-                <question_domain name="Medical" />
             </question>
         </questionnaire>
     </category>
     <category type="B">
         <questionnaire number="1">
-            <question number="1">
-                <question_text text="Question 1 text" />
-                <question_photo url="url 1" />
+            <question number="1" text="Question 1 text" url="url 1" domain="Main">
                 <question_answers>
                     <answer label="A" text="Answer 1.A" />
                     <answer label="B" text="Answer 1.B" />
                     <answer label="C" text="Answer 1.C" />
                 </question_answers>
-                <question_domain name="Main" />
             </question>
-            <question number="2">
-                <question_text text="Question 2 text" />
-                <question_photo url="url 2" />
+            <question number="2" text="Question 2 text" url="url 2" domain="Mechanical">
                 <question_answers>
                     <answer label="A" text="Answer 2.A" />
                     <answer label="B" text="Answer 2.B" />
                     <answer label="C" text="Answer 2.C" />
                 </question_answers>
-                <question_domain name="Mechanical" />
             </question>
-            <question number="3">
-                <question_text text="Question 3 text" />
-                <question_photo url="url 3" />
+            <question number="3" text="Question 3 text" url="url 3" domain="Medical">
                 <question_answers>
                     <answer label="A" text="Answer 3.A" />
                     <answer label="B" text="Answer 3.B" />
                     <answer label="C" text="Answer 3.C" />
                 </question_answers>
-                <question_domain name="Medical" />
             </question>
         </questionnaire>
         <questionnaire number="2">
-            <question number="1">
-                <question_text text="Question 1 text" />
-                <question_photo url="url 1" />
+            <question number="1" text="Question 1 text" url="url 1" domain="Main">
                 <question_answers>
                     <answer label="A" text="Answer 1.A" />
                     <answer label="B" text="Answer 1.B" />
                     <answer label="C" text="Answer 1.C" />
                 </question_answers>
-                <question_domain name="Main" />
             </question>
-            <question number="2">
-                <question_text text="Question 2 text" />
-                <question_photo url="url 2" />
+            <question number="2" text="Question 2 text" url="url 2" domain="Mechanical">
                 <question_answers>
                     <answer label="A" text="Answer 2.A" />
                     <answer label="B" text="Answer 2.B" />
                     <answer label="C" text="Answer 2.C" />
                 </question_answers>
-                <question_domain name="Mechanical" />
             </question>
-            <question number="3">
-                <question_text text="Question 3 text" />
-                <question_photo url="url 3" />
+            <question number="3" text="Question 3 text" url="url 3" domain="Medical">
                 <question_answers>
                     <answer label="A" text="Answer 3.A" />
                     <answer label="B" text="Answer 3.B" />
                     <answer label="C" text="Answer 3.C" />
                 </question_answers>
-                <question_domain name="Medical" />
             </question>
         </questionnaire>
     </category>
