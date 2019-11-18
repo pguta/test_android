@@ -2,7 +2,7 @@
 <exam>
     <category type="A">
         <questionnaire number="1">
-            <question text="Question 1 text" url="url 1" domain="Main">
+            <question text="Question 1 text" url="https://raw.githubusercontent.com/pguta/test_android/master/Imagini/Chestionare/3461.jpg" domain="Main">
                 <answer label="A" text="Answer 1.A"> </answer>
                 <answer label="B" text="Answer 1.B"> </answer>
                 <answer label="C" text="Answer 1.C"> </answer>
