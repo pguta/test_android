@@ -412,4 +412,40 @@
             </question>
         </questionnaire>
     </category>
+    <category type="D">
+        <questionnaire number="1">
+            <question text="Question 1 text" url="url 1" domain="Main">
+                <answer label="A" text="Answer 1.A"> </answer>
+                <answer label="B" text="Answer 1.B"> </answer>
+                <answer label="C" text="Answer 1.C"> </answer>
+            </question>
+            <question text="Question 2 text" url="url 2" domain="Mechanical">
+                <answer label="A" text="Answer 2.A"> </answer>
+                <answer label="B" text="Answer 2.B"> </answer>
+                <answer label="C" text="Answer 2.C"> </answer>
+            </question>
+            <question text="Question 3 text" url="url 3" domain="Medical">
+                <answer label="A" text="Answer 3.A"> </answer>
+                <answer label="B" text="Answer 3.B"> </answer>
+                <answer label="C" text="Answer 3.C"> </answer>
+            </question>
+        </questionnaire>
+        <questionnaire number="2">
+            <question text="Question 1 text" url="url 1" domain="Main">
+                <answer label="A" text="Answer 1.A"> </answer>
+                <answer label="B" text="Answer 1.B"> </answer>
+                <answer label="C" text="Answer 1.C"> </answer>
+            </question>
+            <question text="Question 2 text" url="url 2" domain="Mechanical">
+                <answer label="A" text="Answer 2.A"> </answer>
+                <answer label="B" text="Answer 2.B"> </answer>
+                <answer label="C" text="Answer 2.C"> </answer>
+            </question>
+            <question text="Question 3 text" url="url 3" domain="Medical">
+                <answer label="A" text="Answer 3.A"> </answer>
+                <answer label="B" text="Answer 3.B"> </answer>
+                <answer label="C" text="Answer 3.C"> </answer>
+            </question>
+        </questionnaire>
+    </category>
 </exam>
