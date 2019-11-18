@@ -3,96 +3,72 @@
     <category type="A">
         <questionnaire number="1">
             <question text="Question 1 text" url="url 1" domain="Main">
-                <question_answers>
-                    <answer label="A" text="Answer 1.A" />
-                    <answer label="B" text="Answer 1.B" />
-                    <answer label="C" text="Answer 1.C" />
-                </question_answers>
+                <answer label="A" text="Answer 1.A" />
+                <answer label="B" text="Answer 1.B" />
+                <answer label="C" text="Answer 1.C" />
             </question>
             <question text="Question 2 text" url="url 2" domain="Mechanical">
-                <question_answers>
-                    <answer label="A" text="Answer 2.A" />
-                    <answer label="B" text="Answer 2.B" />
-                    <answer label="C" text="Answer 2.C" />
-                </question_answers>
+                <answer label="A" text="Answer 2.A" />
+                <answer label="B" text="Answer 2.B" />
+                <answer label="C" text="Answer 2.C" />
             </question>
             <question text="Question 3 text" url="url 3" domain="Medical">
-                <question_answers>
-                    <answer label="A" text="Answer 3.A" />
-                    <answer label="B" text="Answer 3.B" />
-                    <answer label="C" text="Answer 3.C" />
-                </question_answers>
+                <answer label="A" text="Answer 3.A" />
+                <answer label="B" text="Answer 3.B" />
+                <answer label="C" text="Answer 3.C" />
             </question>
         </questionnaire>
         <questionnaire number="2">
             <question text="Question 1 text" url="url 1" domain="Main">
-                <question_answers>
-                    <answer label="A" text="Answer 1.A" />
-                    <answer label="B" text="Answer 1.B" />
-                    <answer label="C" text="Answer 1.C" />
-                </question_answers>
+                <answer label="A" text="Answer 1.A" />
+                <answer label="B" text="Answer 1.B" />
+                <answer label="C" text="Answer 1.C" />
             </question>
             <question text="Question 2 text" url="url 2" domain="Mechanical">
-                <question_answers>
-                    <answer label="A" text="Answer 2.A" />
-                    <answer label="B" text="Answer 2.B" />
-                    <answer label="C" text="Answer 2.C" />
-                </question_answers>
+                <answer label="A" text="Answer 2.A" />
+                <answer label="B" text="Answer 2.B" />
+                <answer label="C" text="Answer 2.C" />
             </question>
             <question text="Question 3 text" url="url 3" domain="Medical">
-                <question_answers>
-                    <answer label="A" text="Answer 3.A" />
-                    <answer label="B" text="Answer 3.B" />
-                    <answer label="C" text="Answer 3.C" />
-                </question_answers>
+                <answer label="A" text="Answer 3.A" />
+                <answer label="B" text="Answer 3.B" />
+                <answer label="C" text="Answer 3.C" />
             </question>
         </questionnaire>
     </category>
     <category type="B">
         <questionnaire number="1">
             <question text="Question 1 text" url="url 1" domain="Main">
-                <question_answers>
-                    <answer label="A" text="Answer 1.A" />
-                    <answer label="B" text="Answer 1.B" />
-                    <answer label="C" text="Answer 1.C" />
-                </question_answers>
+                <answer label="A" text="Answer 1.A" />
+                <answer label="B" text="Answer 1.B" />
+                <answer label="C" text="Answer 1.C" />
             </question>
             <question text="Question 2 text" url="url 2" domain="Mechanical">
-                <question_answers>
-                    <answer label="A" text="Answer 2.A" />
-                    <answer label="B" text="Answer 2.B" />
-                    <answer label="C" text="Answer 2.C" />
-                </question_answers>
+                <answer label="A" text="Answer 2.A" />
+                <answer label="B" text="Answer 2.B" />
+                <answer label="C" text="Answer 2.C" />
             </question>
             <question text="Question 3 text" url="url 3" domain="Medical">
-                <question_answers>
-                    <answer label="A" text="Answer 3.A" />
-                    <answer label="B" text="Answer 3.B" />
-                    <answer label="C" text="Answer 3.C" />
-                </question_answers>
+                <answer label="A" text="Answer 3.A" />
+                <answer label="B" text="Answer 3.B" />
+                <answer label="C" text="Answer 3.C" />
             </question>
         </questionnaire>
         <questionnaire number="2">
             <question text="Question 1 text" url="url 1" domain="Main">
-                <question_answers>
-                    <answer label="A" text="Answer 1.A" />
-                    <answer label="B" text="Answer 1.B" />
-                    <answer label="C" text="Answer 1.C" />
-                </question_answers>
+                <answer label="A" text="Answer 1.A" />
+                <answer label="B" text="Answer 1.B" />
+                <answer label="C" text="Answer 1.C" />
             </question>
             <question text="Question 2 text" url="url 2" domain="Mechanical">
-                <question_answers>
-                    <answer label="A" text="Answer 2.A" />
-                    <answer label="B" text="Answer 2.B" />
-                    <answer label="C" text="Answer 2.C" />
-                </question_answers>
+                <answer label="A" text="Answer 2.A" />
+                <answer label="B" text="Answer 2.B" />
+                <answer label="C" text="Answer 2.C" />
             </question>
             <question text="Question 3 text" url="url 3" domain="Medical">
-                <question_answers>
-                    <answer label="A" text="Answer 3.A" />
-                    <answer label="B" text="Answer 3.B" />
-                    <answer label="C" text="Answer 3.C" />
-                </question_answers>
+                <answer label="A" text="Answer 3.A" />
+                <answer label="B" text="Answer 3.B" />
+                <answer label="C" text="Answer 3.C" />
             </question>
         </questionnaire>
     </category>
