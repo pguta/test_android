@@ -2,578 +2,104 @@
 <exam>
     <category type="A">
         <questionnaire number="1">
-            <question text="Can you change the position of the vehicle if you are involved in an accident?" url="url 1" domain="Main">
-                <answer label="A" text="yes, after you gave first aid to the victims" />
-                <answer label="B" text="yes, if the accident only had material damages" />
-                <answer label="C" text="yes, after announcing the police" />
-                <right_answer value="1" />
+            <question id="0">
             </question>
-            <question text="Which traffic sign indicates that you have priority?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/3461.jpg" domain="Main">
-                <answer label="A" text="1" />
-                <answer label="B" text="2" />
-                <answer label="C" text="3" />
-                <right_answer value="0" />
+            <question id="2">
             </question>
-            <question text="In which order will the vehicles pass the intersection?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/2.jpg" domain="Main">
-                <answer label="A" text="motorcycle, lorry, car" />
-                <answer label="B" text="motorcycle, car, lorry" />
-                <answer label="C" text="lorry, motorcylce, car" />
-                <right_answer value="0" />
+            <question id="5">
             </question>
-            <question text="The people injured with multiple burns on their bodies as a result of an accident must be:" url="url3" domain="Medical">
-                <answer label="A" text="rapidly stripped out of they clothes, after putting the flames out" />
-                <answer label="B" text="urgently transported to a hospital" />
-                <answer label="C" text="washed, bandaged and then transported to the nearest medical facility" />
-                <right_answer value="0" />
+            <question id="8">
             </question>
-            <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Main">
-                <answer label="A" text="Priority road" />
-                <answer label="B" text="Parking prohibited" />
-                <answer label="C" text="It's not a valid road sign" />
-                <right_answer value="1" />
+            <question id="11">
             </question>
-            <question text="Which is the recommended speed on a road covered by mud or snow?" url="url 2" domain="Main">
-                <answer label="A" text="with no more than 20 km/h" />
-                <answer label="B" text="the speed mentioned by the reglementations of the type of road you are driving on" />
-                <answer label="C" text="a speed that can confer you the safety that you can stop and avoid any accident" />
-                <right_answer value="2" />
-            </question>
-            <question text="When leaving residential or pedestrian areas, you are required to give priority to:" url="url 3" domain="Main">
-                <answer label="A" text="the motor vehicles" />
-                <answer label="B" text="the pedestrians on the opposite way of travel" />
-                <answer label="C" text="all vehicles which you encounter path with" />
-                <right_answer value="2" />
-            </question>
-            <question text="At an unguided intersection of a national road with a country road, communal or local road, the right of way is granted to:" url="url 1" domain="Main">
-                <answer label="A" text="the vehicles traveling on the national road" />
-                <answer label="B" text="the vehicles coming from the right" />
-                <answer label="C" text="the vehicles travelling on the country, communal or local road" />
-                <right_answer value="0" />
-            </question>
-            <question text="The airbag provides:" url="url 2" domain="Mechanical">
-                <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road" />
-                <answer label="B" text="additional protection of persons in the event of a vehicle impact" />
-                <answer label="C" text="he possibility of relaxed driving, with head resting on it" />
-                <right_answer value="1" />
-            </question>
-            <question text="It is allowed to tow a vehicle on the highway?" url="url 3" domain="Main">
-                <answer label="A" text="no" />
-                <answer label="B" text="yes, if the assembly so formed can exceed the speed of 50km/h" />
-                <answer label="C" text="yes, if the towed vehicle is a car" />
-                <right_answer value="1" />
-            </question>
-            <question text="In which situations does the fuel consumption of an engine increase?" url="url 3" domain="Mechanical">
-                <answer label="A" text="when the engine doesn't reach its normal operating temperature" />
-                <answer label="B" text="when the exhaust is black" />
-                <answer label="C" text="when the engine is running with interruptions." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>
-            <question text="In which of the following situations is passing another car allowed:" url="url 3" domain="Main">
-                <answer label="A" text="at a signalized intersection with priority indicators" />
-                <answer label="B" text="at an intersection led by light signals." />
-                <answer label="C" text="at an intersection led by police signals." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>            
-            <question text="Which is the speed limit in towns?" url="url 3" domain="Main">
-                <answer label="A" text="40 km/h" />
-                <answer label="B" text="60km/h" />
-                <answer label="C" text="50 km/h" />
-                <right_answer value="2" />
-            </question>            
         </questionnaire>
         <questionnaire number="2">
-            <question text="At an unguided intersection of a national road with a country road, communal or local road, the right of way is granted to:" url="url 1" domain="Main">
-                <answer label="A" text="the vehicles traveling on the national road" />
-                <answer label="B" text="the vehicles coming from the right" />
-                <answer label="C" text="the vehicles travelling on the country, communal or local road" />
-                <right_answer value="0" />
+            <question id="7">
             </question>
-            <question text="In which of the following situations is passing another car allowed:" url="url 3" domain="Main">
-                <answer label="A" text="at a signalized intersection with priority indicators" />
-                <answer label="B" text="at an intersection led by light signals." />
-                <answer label="C" text="at an intersection led by police signals." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>            
-            <question text="It is allowed to tow a vehicle on the highway?" url="url 3" domain="Main">
-                <answer label="A" text="no" />
-                <answer label="B" text="yes, if the assembly so formed can exceed the speed of 50km/h" />
-                <answer label="C" text="yes, if the towed vehicle is a car" />
-                <right_answer value="1" />
-            </question>            
-            <question text="In which order will the vehicles pass the intersection?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/2.jpg" domain="Main">
-                <answer label="A" text="motorcycle, lorry, car" />
-                <answer label="B" text="motorcycle, car, lorry" />
-                <answer label="C" text="lorry, motorcylce, car" />
-                <right_answer value="0" />
+            <question id="1">
             </question>
-            <question text="Can you change the position of the vehicle if you are involved in an accident?" url="url 1" domain="Main">
-                <answer label="A" text="yes, after you gave first aid to the victims" />
-                <answer label="B" text="yes, if the accident only had material damages" />
-                <answer label="C" text="yes, after announcing the police" />
-                <right_answer value="1" />
+            <question id="2">
+            </question>
+            <question id="9">
+            </question>
+            <question id="4">
             </question>
         </questionnaire>
     </category>
     <category type="B">
         <questionnaire number="1">
-            <question text="In which order will the vehicles pass the intersection?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/2.jpg" domain="Main">
-                <answer label="A" text="motorcycle, lorry, car" />
-                <answer label="B" text="motorcycle, car, lorry" />
-                <answer label="C" text="lorry, motorcylce, car" />
-                <right_answer value="0" />
+            <question id="7">
             </question>
-            <question text="The people injured with multiple burns on their bodies as a result of an accident must be:" url="url3" domain="Medical">
-                <answer label="A" text="rapidly stripped out of they clothes, after putting the flames out" />
-                <answer label="B" text="urgently transported to a hospital" />
-                <answer label="C" text="washed, bandaged and then transported to the nearest medical facility" />
-                <right_answer value="0" />
-            </question>            
-            <question text="Can you change the position of the vehicle if you are involved in an accident?" url="url 1" domain="Main">
-                <answer label="A" text="yes, after you gave first aid to the victims" />
-                <answer label="B" text="yes, if the accident only had material damages" />
-                <answer label="C" text="yes, after announcing the police" />
-                <right_answer value="1" />
+            <question id="1">
             </question>
-            <question text="Which traffic sign indicates that you have priority?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/3461.jpg" domain="Main">
-                <answer label="A" text="1" />
-                <answer label="B" text="2" />
-                <answer label="C" text="3" />
-                <right_answer value="0" />
+            <question id="2">
             </question>
-            <question text="Which is the recommended speed on a road covered by mud or snow?" url="url 2" domain="Main">
-                <answer label="A" text="with no more than 20 km/h" />
-                <answer label="B" text="the speed mentioned by the reglementations of the type of road you are driving on" />
-                <answer label="C" text="a speed that can confer you the safety that you can stop and avoid any accident" />
-                <right_answer value="2" />
+            <question id="9">
             </question>
-            <question text="When leaving residential or pedestrian areas, you are required to give priority to:" url="url 3" domain="Main">
-                <answer label="A" text="the motor vehicles" />
-                <answer label="B" text="the pedestrians on the opposite way of travel" />
-                <answer label="C" text="all vehicles which you encounter path with" />
-                <right_answer value="2" />
-            </question>
-            <question text="In which situations does the fuel consumption of an engine increase?" url="url 3" domain="Mechanical">
-                <answer label="A" text="when the engine doesn't reach its normal operating temperature" />
-                <answer label="B" text="when the exhaust is black" />
-                <answer label="C" text="when the engine is running with interruptions." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
+            <question id="4">
             </question>
         </questionnaire>
         <questionnaire number="2">
-            <question text="Which traffic sign indicates that you have priority?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/3461.jpg" domain="Main">
-                <answer label="A" text="1" />
-                <answer label="B" text="2" />
-                <answer label="C" text="3" />
-                <right_answer value="0" />
+            <question id="7">
             </question>
-            <question text="The people injured with multiple burns on their bodies as a result of an accident must be:" url="url3" domain="Medical">
-                <answer label="A" text="rapidly stripped out of they clothes, after putting the flames out" />
-                <answer label="B" text="urgently transported to a hospital" />
-                <answer label="C" text="washed, bandaged and then transported to the nearest medical facility" />
-                <right_answer value="0" />
+            <question id="1">
             </question>
-            <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Main">
-                <answer label="A" text="Priority road" />
-                <answer label="B" text="Parking prohibited" />
-                <answer label="C" text="It's not a valid road sign" />
-                <right_answer value="1" />
+            <question id="2">
             </question>
-            <question text="Can you change the position of the vehicle if you are involved in an accident?" url="url 1" domain="Main">
-                <answer label="A" text="yes, after you gave first aid to the victims" />
-                <answer label="B" text="yes, if the accident only had material damages" />
-                <answer label="C" text="yes, after announcing the police" />
-                <right_answer value="1" />
+            <question id="9">
             </question>
-            <question text="Which is the recommended speed on a road covered by mud or snow?" url="url 2" domain="Main">
-                <answer label="A" text="with no more than 20 km/h" />
-                <answer label="B" text="the speed mentioned by the reglementations of the type of road you are driving on" />
-                <answer label="C" text="a speed that can confer you the safety that you can stop and avoid any accident" />
-                <right_answer value="2" />
+            <question id="4">
             </question>
-            <question text="When leaving residential or pedestrian areas, you are required to give priority to:" url="url 3" domain="Main">
-                <answer label="A" text="the motor vehicles" />
-                <answer label="B" text="the pedestrians on the opposite way of travel" />
-                <answer label="C" text="all vehicles which you encounter path with" />
-                <right_answer value="2" />
-            </question>
-            <question text="In which order will the vehicles pass the intersection?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/2.jpg" domain="Main">
-                <answer label="A" text="motorcycle, lorry, car" />
-                <answer label="B" text="motorcycle, car, lorry" />
-                <answer label="C" text="lorry, motorcylce, car" />
-                <right_answer value="0" />
-            </question>
-            <question text="The airbag provides:" url="url 2" domain="Mechanical">
-                <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road" />
-                <answer label="B" text="additional protection of persons in the event of a vehicle impact" />
-                <answer label="C" text="he possibility of relaxed driving, with head resting on it" />
-                <right_answer value="1" />
-            </question>
-            <question text="It is allowed to tow a vehicle on the highway?" url="url 3" domain="Main">
-                <answer label="A" text="no" />
-                <answer label="B" text="yes, if the assembly so formed can exceed the speed of 50km/h" />
-                <answer label="C" text="yes, if the towed vehicle is a car" />
-                <right_answer value="1" />
-            </question>
-            <question text="In which situations does the fuel consumption of an engine increase?" url="url 3" domain="Mechanical">
-                <answer label="A" text="when the engine doesn't reach its normal operating temperature" />
-                <answer label="B" text="when the exhaust is black" />
-                <answer label="C" text="when the engine is running with interruptions." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>
-            <question text="Which is the speed limit in towns?" url="url 3" domain="Main">
-                <answer label="A" text="40 km/h" />
-                <answer label="B" text="60km/h" />
-                <answer label="C" text="50 km/h" />
-                <right_answer value="2" />
-            </question>            
         </questionnaire>
         <questionnaire number="3">
-            <question text="Can you change the position of the vehicle if you are involved in an accident?" url="url 1" domain="Main">
-                <answer label="A" text="yes, after you gave first aid to the victims" />
-                <answer label="B" text="yes, if the accident only had material damages" />
-                <answer label="C" text="yes, after announcing the police" />
-                <right_answer value="1" />
+            <question id="7">
             </question>
-            <question text="Which traffic sign indicates that you have priority?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/3461.jpg" domain="Main">
-                <answer label="A" text="1" />
-                <answer label="B" text="2" />
-                <answer label="C" text="3" />
-                <right_answer value="0" />
+            <question id="1">
             </question>
-            <question text="In which order will the vehicles pass the intersection?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/2.jpg" domain="Main">
-                <answer label="A" text="motorcycle, lorry, car" />
-                <answer label="B" text="motorcycle, car, lorry" />
-                <answer label="C" text="lorry, motorcylce, car" />
-                <right_answer value="0" />
+            <question id="2">
             </question>
-            <question text="The people injured with multiple burns on their bodies as a result of an accident must be:" url="url3" domain="Medical">
-                <answer label="A" text="rapidly stripped out of they clothes, after putting the flames out" />
-                <answer label="B" text="urgently transported to a hospital" />
-                <answer label="C" text="washed, bandaged and then transported to the nearest medical facility" />
-                <right_answer value="0" />
+            <question id="9">
             </question>
-            <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Main">
-                <answer label="A" text="Priority road" />
-                <answer label="B" text="Parking prohibited" />
-                <answer label="C" text="It's not a valid road sign" />
-                <right_answer value="1" />
+            <question id="4">
             </question>
-            <question text="Which is the recommended speed on a road covered by mud or snow?" url="url 2" domain="Main">
-                <answer label="A" text="with no more than 20 km/h" />
-                <answer label="B" text="the speed mentioned by the reglementations of the type of road you are driving on" />
-                <answer label="C" text="a speed that can confer you the safety that you can stop and avoid any accident" />
-                <right_answer value="2" />
-            </question>
-            <question text="When leaving residential or pedestrian areas, you are required to give priority to:" url="url 3" domain="Main">
-                <answer label="A" text="the motor vehicles" />
-                <answer label="B" text="the pedestrians on the opposite way of travel" />
-                <answer label="C" text="all vehicles which you encounter path with" />
-                <right_answer value="2" />
-            </question>
-            <question text="At an unguided intersection of a national road with a country road, communal or local road, the right of way is granted to:" url="url 1" domain="Main">
-                <answer label="A" text="the vehicles traveling on the national road" />
-                <answer label="B" text="the vehicles coming from the right" />
-                <answer label="C" text="the vehicles travelling on the country, communal or local road" />
-                <right_answer value="0" />
-            </question>
-            <question text="The airbag provides:" url="url 2" domain="Mechanical">
-                <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road" />
-                <answer label="B" text="additional protection of persons in the event of a vehicle impact" />
-                <answer label="C" text="he possibility of relaxed driving, with head resting on it" />
-                <right_answer value="1" />
-            </question>
-            <question text="It is allowed to tow a vehicle on the highway?" url="url 3" domain="Main">
-                <answer label="A" text="no" />
-                <answer label="B" text="yes, if the assembly so formed can exceed the speed of 50km/h" />
-                <answer label="C" text="yes, if the towed vehicle is a car" />
-                <right_answer value="1" />
-            </question>
-            <question text="In which situations does the fuel consumption of an engine increase?" url="url 3" domain="Mechanical">
-                <answer label="A" text="when the engine doesn't reach its normal operating temperature" />
-                <answer label="B" text="when the exhaust is black" />
-                <answer label="C" text="when the engine is running with interruptions." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>
-            <question text="In which of the following situations is passing another car allowed:" url="url 3" domain="Main">
-                <answer label="A" text="at a signalized intersection with priority indicators" />
-                <answer label="B" text="at an intersection led by light signals." />
-                <answer label="C" text="at an intersection led by police signals." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>            
-            <question text="Which is the speed limit in towns?" url="url 3" domain="Main">
-                <answer label="A" text="40 km/h" />
-                <answer label="B" text="60km/h" />
-                <answer label="C" text="50 km/h" />
-                <right_answer value="2" />
-            </question>            
         </questionnaire>
         <questionnaire number="4">
-            <question text="Can you change the position of the vehicle if you are involved in an accident?" url="url 1" domain="Main">
-                <answer label="A" text="yes, after you gave first aid to the victims" />
-                <answer label="B" text="yes, if the accident only had material damages" />
-                <answer label="C" text="yes, after announcing the police" />
-                <right_answer value="1" />
+            <question id="7">
             </question>
-            <question text="Which traffic sign indicates that you have priority?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/3461.jpg" domain="Main">
-                <answer label="A" text="1" />
-                <answer label="B" text="2" />
-                <answer label="C" text="3" />
-                <right_answer value="0" />
+            <question id="1">
             </question>
-            <question text="In which order will the vehicles pass the intersection?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/2.jpg" domain="Main">
-                <answer label="A" text="motorcycle, lorry, car" />
-                <answer label="B" text="motorcycle, car, lorry" />
-                <answer label="C" text="lorry, motorcylce, car" />
-                <right_answer value="0" />
+            <question id="2">
             </question>
-            <question text="The people injured with multiple burns on their bodies as a result of an accident must be:" url="url3" domain="Medical">
-                <answer label="A" text="rapidly stripped out of they clothes, after putting the flames out" />
-                <answer label="B" text="urgently transported to a hospital" />
-                <answer label="C" text="washed, bandaged and then transported to the nearest medical facility" />
-                <right_answer value="0" />
+            <question id="9">
             </question>
-            <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Main">
-                <answer label="A" text="Priority road" />
-                <answer label="B" text="Parking prohibited" />
-                <answer label="C" text="It's not a valid road sign" />
-                <right_answer value="1" />
+            <question id="4">
             </question>
-            <question text="Which is the recommended speed on a road covered by mud or snow?" url="url 2" domain="Main">
-                <answer label="A" text="with no more than 20 km/h" />
-                <answer label="B" text="the speed mentioned by the reglementations of the type of road you are driving on" />
-                <answer label="C" text="a speed that can confer you the safety that you can stop and avoid any accident" />
-                <right_answer value="2" />
-            </question>
-            <question text="When leaving residential or pedestrian areas, you are required to give priority to:" url="url 3" domain="Main">
-                <answer label="A" text="the motor vehicles" />
-                <answer label="B" text="the pedestrians on the opposite way of travel" />
-                <answer label="C" text="all vehicles which you encounter path with" />
-                <right_answer value="2" />
-            </question>
-            <question text="At an unguided intersection of a national road with a country road, communal or local road, the right of way is granted to:" url="url 1" domain="Main">
-                <answer label="A" text="the vehicles traveling on the national road" />
-                <answer label="B" text="the vehicles coming from the right" />
-                <answer label="C" text="the vehicles travelling on the country, communal or local road" />
-                <right_answer value="0" />
-            </question>
-            <question text="The airbag provides:" url="url 2" domain="Mechanical">
-                <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road" />
-                <answer label="B" text="additional protection of persons in the event of a vehicle impact" />
-                <answer label="C" text="he possibility of relaxed driving, with head resting on it" />
-                <right_answer value="1" />
-            </question>
-            <question text="It is allowed to tow a vehicle on the highway?" url="url 3" domain="Main">
-                <answer label="A" text="no" />
-                <answer label="B" text="yes, if the assembly so formed can exceed the speed of 50km/h" />
-                <answer label="C" text="yes, if the towed vehicle is a car" />
-                <right_answer value="1" />
-            </question>
-            <question text="In which situations does the fuel consumption of an engine increase?" url="url 3" domain="Mechanical">
-                <answer label="A" text="when the engine doesn't reach its normal operating temperature" />
-                <answer label="B" text="when the exhaust is black" />
-                <answer label="C" text="when the engine is running with interruptions." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>
-            <question text="In which of the following situations is passing another car allowed:" url="url 3" domain="Main">
-                <answer label="A" text="at a signalized intersection with priority indicators" />
-                <answer label="B" text="at an intersection led by light signals." />
-                <answer label="C" text="at an intersection led by police signals." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>            
-            <question text="Which is the speed limit in towns?" url="url 3" domain="Main">
-                <answer label="A" text="40 km/h" />
-                <answer label="B" text="60km/h" />
-                <answer label="C" text="50 km/h" />
-                <right_answer value="2" />
-            </question>            
         </questionnaire>
     </category>
     <category type="D">
         <questionnaire number="1">
-            <question text="Can you change the position of the vehicle if you are involved in an accident?" url="url 1" domain="Main">
-                <answer label="A" text="yes, after you gave first aid to the victims" />
-                <answer label="B" text="yes, if the accident only had material damages" />
-                <answer label="C" text="yes, after announcing the police" />
-                <right_answer value="1" />
+            <question id="7">
             </question>
-            <question text="Which traffic sign indicates that you have priority?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/3461.jpg" domain="Main">
-                <answer label="A" text="1" />
-                <answer label="B" text="2" />
-                <answer label="C" text="3" />
-                <right_answer value="0" />
+            <question id="1">
             </question>
-            <question text="In which order will the vehicles pass the intersection?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/2.jpg" domain="Main">
-                <answer label="A" text="motorcycle, lorry, car" />
-                <answer label="B" text="motorcycle, car, lorry" />
-                <answer label="C" text="lorry, motorcylce, car" />
-                <right_answer value="0" />
+            <question id="2">
             </question>
-            <question text="The people injured with multiple burns on their bodies as a result of an accident must be:" url="url3" domain="Medical">
-                <answer label="A" text="rapidly stripped out of they clothes, after putting the flames out" />
-                <answer label="B" text="urgently transported to a hospital" />
-                <answer label="C" text="washed, bandaged and then transported to the nearest medical facility" />
-                <right_answer value="0" />
+            <question id="9">
             </question>
-            <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Main">
-                <answer label="A" text="Priority road" />
-                <answer label="B" text="Parking prohibited" />
-                <answer label="C" text="It's not a valid road sign" />
-                <right_answer value="1" />
+            <question id="4">
             </question>
-            <question text="Which is the recommended speed on a road covered by mud or snow?" url="url 2" domain="Main">
-                <answer label="A" text="with no more than 20 km/h" />
-                <answer label="B" text="the speed mentioned by the reglementations of the type of road you are driving on" />
-                <answer label="C" text="a speed that can confer you the safety that you can stop and avoid any accident" />
-                <right_answer value="2" />
-            </question>
-            <question text="When leaving residential or pedestrian areas, you are required to give priority to:" url="url 3" domain="Main">
-                <answer label="A" text="the motor vehicles" />
-                <answer label="B" text="the pedestrians on the opposite way of travel" />
-                <answer label="C" text="all vehicles which you encounter path with" />
-                <right_answer value="2" />
-            </question>
-            <question text="At an unguided intersection of a national road with a country road, communal or local road, the right of way is granted to:" url="url 1" domain="Main">
-                <answer label="A" text="the vehicles traveling on the national road" />
-                <answer label="B" text="the vehicles coming from the right" />
-                <answer label="C" text="the vehicles travelling on the country, communal or local road" />
-                <right_answer value="0" />
-            </question>
-            <question text="The airbag provides:" url="url 2" domain="Mechanical">
-                <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road" />
-                <answer label="B" text="additional protection of persons in the event of a vehicle impact" />
-                <answer label="C" text="he possibility of relaxed driving, with head resting on it" />
-                <right_answer value="1" />
-            </question>
-            <question text="It is allowed to tow a vehicle on the highway?" url="url 3" domain="Main">
-                <answer label="A" text="no" />
-                <answer label="B" text="yes, if the assembly so formed can exceed the speed of 50km/h" />
-                <answer label="C" text="yes, if the towed vehicle is a car" />
-                <right_answer value="1" />
-            </question>
-            <question text="In which situations does the fuel consumption of an engine increase?" url="url 3" domain="Mechanical">
-                <answer label="A" text="when the engine doesn't reach its normal operating temperature" />
-                <answer label="B" text="when the exhaust is black" />
-                <answer label="C" text="when the engine is running with interruptions." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>
-            <question text="In which of the following situations is passing another car allowed:" url="url 3" domain="Main">
-                <answer label="A" text="at a signalized intersection with priority indicators" />
-                <answer label="B" text="at an intersection led by light signals." />
-                <answer label="C" text="at an intersection led by police signals." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>            
-            <question text="Which is the speed limit in towns?" url="url 3" domain="Main">
-                <answer label="A" text="40 km/h" />
-                <answer label="B" text="60km/h" />
-                <answer label="C" text="50 km/h" />
-                <right_answer value="2" />
-            </question>            
         </questionnaire>
         <questionnaire number="2">
-            <question text="Can you change the position of the vehicle if you are involved in an accident?" url="url 1" domain="Main">
-                <answer label="A" text="yes, after you gave first aid to the victims" />
-                <answer label="B" text="yes, if the accident only had material damages" />
-                <answer label="C" text="yes, after announcing the police" />
-                <right_answer value="1" />
+            <question id="7">
             </question>
-            <question text="Which traffic sign indicates that you have priority?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/3461.jpg" domain="Main">
-                <answer label="A" text="1" />
-                <answer label="B" text="2" />
-                <answer label="C" text="3" />
-                <right_answer value="0" />
+            <question id="1">
             </question>
-            <question text="In which order will the vehicles pass the intersection?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/2.jpg" domain="Main">
-                <answer label="A" text="motorcycle, lorry, car" />
-                <answer label="B" text="motorcycle, car, lorry" />
-                <answer label="C" text="lorry, motorcylce, car" />
-                <right_answer value="0" />
+            <question id="2">
             </question>
-            <question text="The people injured with multiple burns on their bodies as a result of an accident must be:" url="url3" domain="Medical">
-                <answer label="A" text="rapidly stripped out of they clothes, after putting the flames out" />
-                <answer label="B" text="urgently transported to a hospital" />
-                <answer label="C" text="washed, bandaged and then transported to the nearest medical facility" />
-                <right_answer value="0" />
+            <question id="9">
             </question>
-            <question text="What indicated this traffic sign?" url="https://raw.githubusercontent.com/gutaalina17/Android/master/Imagini/Chestionare/9501.jpg" domain="Main">
-                <answer label="A" text="Priority road" />
-                <answer label="B" text="Parking prohibited" />
-                <answer label="C" text="It's not a valid road sign" />
-                <right_answer value="1" />
+            <question id="4">
             </question>
-            <question text="Which is the recommended speed on a road covered by mud or snow?" url="url 2" domain="Main">
-                <answer label="A" text="with no more than 20 km/h" />
-                <answer label="B" text="the speed mentioned by the reglementations of the type of road you are driving on" />
-                <answer label="C" text="a speed that can confer you the safety that you can stop and avoid any accident" />
-                <right_answer value="2" />
-            </question>
-            <question text="When leaving residential or pedestrian areas, you are required to give priority to:" url="url 3" domain="Main">
-                <answer label="A" text="the motor vehicles" />
-                <answer label="B" text="the pedestrians on the opposite way of travel" />
-                <answer label="C" text="all vehicles which you encounter path with" />
-                <right_answer value="2" />
-            </question>
-            <question text="At an unguided intersection of a national road with a country road, communal or local road, the right of way is granted to:" url="url 1" domain="Main">
-                <answer label="A" text="the vehicles traveling on the national road" />
-                <answer label="B" text="the vehicles coming from the right" />
-                <answer label="C" text="the vehicles travelling on the country, communal or local road" />
-                <right_answer value="0" />
-            </question>
-            <question text="The airbag provides:" url="url 2" domain="Mechanical">
-                <answer label="A" text="rapid cushioning of vibration caused by bumps on the public road" />
-                <answer label="B" text="additional protection of persons in the event of a vehicle impact" />
-                <answer label="C" text="he possibility of relaxed driving, with head resting on it" />
-                <right_answer value="1" />
-            </question>
-            <question text="It is allowed to tow a vehicle on the highway?" url="url 3" domain="Main">
-                <answer label="A" text="no" />
-                <answer label="B" text="yes, if the assembly so formed can exceed the speed of 50km/h" />
-                <answer label="C" text="yes, if the towed vehicle is a car" />
-                <right_answer value="1" />
-            </question>
-            <question text="In which situations does the fuel consumption of an engine increase?" url="url 3" domain="Mechanical">
-                <answer label="A" text="when the engine doesn't reach its normal operating temperature" />
-                <answer label="B" text="when the exhaust is black" />
-                <answer label="C" text="when the engine is running with interruptions." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>
-            <question text="In which of the following situations is passing another car allowed:" url="url 3" domain="Main">
-                <answer label="A" text="at a signalized intersection with priority indicators" />
-                <answer label="B" text="at an intersection led by light signals." />
-                <answer label="C" text="at an intersection led by police signals." />
-                <right_answer value="0" />
-                <right_answer value="1" />
-                <right_answer value="2" />
-            </question>            
-            <question text="Which is the speed limit in towns?" url="url 3" domain="Main">
-                <answer label="A" text="40 km/h" />
-                <answer label="B" text="60km/h" />
-                <answer label="C" text="50 km/h" />
-                <right_answer value="2" />
-            </question>            
         </questionnaire>
     </category>
 </exam>
