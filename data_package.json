@@ -1,0 +1,23 @@
+[
+    {
+        "id": "id1",
+        "type": "State",
+        "latitude": "11,11",
+        "longitude": "22,22",
+        "timestamp": "2020-01-13 09:45:12"
+    },
+    {
+        "id": "id2",
+        "type": "Position",
+        "latitude": "21,11",
+        "longitude": "32,22",
+        "timestamp": "2020-01-13 09:55:12"
+    },
+    {
+        "id": "id3",
+        "type": "State",
+        "latitude": "31,11",
+        "longitude": "42,22",
+        "timestamp": "2020-01-13 10:15:10"
+    }
+]
