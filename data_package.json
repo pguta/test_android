@@ -15,9 +15,72 @@
     },
     {
         "id": "id3",
+        "type": "Position",
+        "latitude": "21,11",
+        "longitude": "32,22",
+        "timestamp": "2020-01-13 09:55:12"
+    },
+    {
+        "id": "id4",
+        "type": "State",
+        "latitude": "21,11",
+        "longitude": "32,22",
+        "timestamp": "2020-01-13 10:55:12"
+    },
+    {
+        "id": "id5",
+        "type": "Position",
+        "latitude": "21,11",
+        "longitude": "32,22",
+        "timestamp": "2020-01-13 11:55:12"
+    },
+    {
+        "id": "id6",
+        "type": "Position",
+        "latitude": "21,11",
+        "longitude": "32,22",
+        "timestamp": "2020-01-13 11:55:12"
+    },
+    {
+        "id": "id7",
+        "type": "Position",
+        "latitude": "21,11",
+        "longitude": "32,22",
+        "timestamp": "2020-01-13 11:55:12"
+    },
+    {
+        "id": "id8",
+        "type": "Position",
+        "latitude": "21,11",
+        "longitude": "32,22",
+        "timestamp": "2020-01-13 16:55:12"
+    },
+    {
+        "id": "id9",
+        "type": "Position",
+        "latitude": "21,11",
+        "longitude": "32,22",
+        "timestamp": "2020-01-13 16:55:12"
+    },
+    {
+        "id": "id10",
+        "type": "State",
+        "latitude": "21,11",
+        "longitude": "32,22",
+        "timestamp": "2020-01-13 19:55:12"
+    },
+    {
+        "id": "id11",
+        "type": "Position",
+        "latitude": "21,11",
+        "longitude": "32,22",
+        "timestamp": "2020-01-13 19:55:12"
+    },
+    {
+        "id": "id12",
         "type": "State",
         "latitude": "31,11",
         "longitude": "42,22",
-        "timestamp": "2020-01-13 10:15:10"
+        "timestamp": "2020-01-13 21:15:10"
     }
 ]
